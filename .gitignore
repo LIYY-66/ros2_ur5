@@ -1,0 +1,7 @@
+# ROS ignores
+build/
+install/
+log/
+.vscode/
+*~
+*.pyc
